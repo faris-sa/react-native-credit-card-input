@@ -8,6 +8,7 @@ const Icons = {
   jcb: require("./icons/stp_card_jcb.png"),
   placeholder: require("./icons/stp_card_unknown.png"),
   visa: require("./icons/stp_card_visa.png"),
+  mada: require("./icons/stp_card_mada.png"),
 };
 
 export default Icons;
